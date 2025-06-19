@@ -85,7 +85,7 @@ As a Cloud Security Administrator at EpicReads, the goal was to improve the over
 
 ## **Screenshots Directory**
 
-1. ![capture_1.png](https://github.com/Sabin-Rana/aws-iam-role-based-access/blob/main/Screenshots/Capture1.PNG) - Screenshot of Admin group creation.
+1. ![capture_1.png](https://github.com/Sabin-Rana/aws-iam-role-based-access/blob/main/Screenshots/capture1.PNG) - Screenshot of Admin group creation.
 2. ![capture_2.png](https://github.com/Sabin-Rana/aws-iam-role-based-access/blob/main/Screenshots/Capture2.PNG) - Screenshot showing the newly created Admin group.
 3. ![capture_3.png](https://github.com/Sabin-Rana/aws-iam-role-based-access/blob/main/Screenshots/Capture3.PNG) - User creation for Luffy.
 4. ![capture_4.png](https://github.com/Sabin-Rana/aws-iam-role-based-access/blob/main/Screenshots/Capture4.PNG) - Luffy added to Admin group.
