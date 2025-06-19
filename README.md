@@ -1,4 +1,4 @@
-# **EpicReads AWS IAM Role-Based Access Implementation**
+# **AWS IAM Role-Based Access Implementation**
 
 ## **Project Overview**
 
