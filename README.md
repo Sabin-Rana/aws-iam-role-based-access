@@ -22,7 +22,7 @@ As a Cloud Security Administrator at EpicReads, the goal was to improve the over
 ### **Step 1: Creating IAM Groups and Policies**
 
 1. **Admin Group**: Created an IAM group named **Admin** and attached the `AdministratorAccess` policy.
-   - **Screenshot**: ![capture_1.png](https://github.com/Sabin-Rana/aws-iam-role-based-access/blob/main/Screenshots/Capture1.PNG) - Showing the IAM Group creation screen.
+   - **Screenshot**: ![capture_1.png](https://github.com/Sabin-Rana/aws-iam-role-based-access/blob/main/Screenshots/capture1.PNG) - Showing the IAM Group creation screen.
    - **Screenshot**: ![capture_2.png](https://github.com/Sabin-Rana/aws-iam-role-based-access/blob/main/Screenshots/Capture2.PNG) - Highlighting the newly created Admin group.
 
 2. **Developer Group**: Created an IAM group named **Developers** and attached policies such as `AmazonEC2FullAccess`, `AmazonS3FullAccess`, and `AmazonRDSFullAccess`.
